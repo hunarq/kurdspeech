@@ -1,4 +1,4 @@
-# kurdspeech
+# kurdspeech, kurdspeak
 Kurdish Speech, Kurdish Text To Sound TTS
 
 This projects aims at building a Kurdish Sorani TTS.
@@ -9,4 +9,4 @@ Kurdish-Sorani has 33 letters including vowels
 
 # Demo
 
-https://www.kurdspeech.com
+https://www.kurdspeak.com
